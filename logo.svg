@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">MJournal logo</title>
+  <desc id="desc">An open journal with a happy face and pen on a blue background</desc>
+  <rect width="512" height="512" rx="70" fill="#5ec4ee"/>
+  <g stroke="#1f365f" stroke-width="14" stroke-linejoin="round" stroke-linecap="round">
+    <path fill="#fbfbf8" d="M85 130v260c0 13 10 23 23 23h125c24 0 45 8 70 24V151c-27-25-55-35-91-35H108c-13 0-23 6-23 14Z"/>
+    <path fill="#fbfbf8" d="M427 130v260c0 13-10 23-23 23H279c-24 0-45 8-70 24V151c27-25 55-35 91-35h104c13 0 23 6 23 14Z"/>
+    <path fill="none" d="M256 151v286"/>
+    <path fill="none" d="M90 392c49-9 104-8 166 22 62-30 117-31 166-22"/>
+    <path fill="#ffd333" d="M344 192c47 0 85 38 85 85s-38 85-85 85-85-38-85-85 38-85 85-85Z"/>
+    <path fill="none" d="M307 260c5-13 15-20 27-20s22 7 27 20M361 260c5-13 15-20 27-20s22 7 27 20"/>
+    <path fill="#1f365f" d="M303 291c21 22 62 31 89 0-5 34-26 50-45 50s-39-16-44-50Z"/>
+    <path fill="#f1848f" d="M331 328c9-6 24-7 33 0-4 9-11 13-17 13s-13-4-16-13Z"/>
+    <path fill="#8794a3" d="M447 124h26c8 0 14 6 14 14v263c0 12-8 22-20 25l-18-4c-9-3-15-12-15-22V139c0-8 6-15 13-15Z"/>
+    <path fill="#ffd333" d="M448 124v-24c0-8 6-14 14-14h13c8 0 14 6 14 14v24Z"/>
+    <path fill="#506a8c" d="M434 193h53v106h-53Z"/>
+    <path fill="#2f4976" d="M451 402h25l-12 49Z"/>
+  </g>
+  <path fill="none" stroke="#dbe2e9" stroke-width="6" stroke-linecap="round" d="M452 214v58"/>
+</svg>
